@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_nen"
+    tools:context="com.example.nguyenthanhxuan.gamecuoiki.MainActivity">
+
+    <ImageView
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="25dp"
+    android:src="@drawable/logo"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+        <Button
+            android:id="@+id/btnDangNhap"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Đăng nhập"
+            android:background="#97c111"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+        <Button
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnDangKy"
+            android:layout_weight="1"
+            android:text="Đăng ký"
+            android:background="#97c111"
+            android:textColor="#ffffff"
+            android:layout_marginTop="20dp"
+            android:textSize="20dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

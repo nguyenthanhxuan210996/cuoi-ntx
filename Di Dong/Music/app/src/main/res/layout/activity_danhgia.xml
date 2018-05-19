@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.nguyenthanhxuan.music.DanhGia">
+
+
+    <TextView
+        android:id="@+id/tvOwner15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UserName:"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#97c111"
+        android:textSize="18dp"/>
+    <TextView
+        android:id="@+id/tvTopicName15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#97c111"
+        android:text="Bài Hát:"
+        android:layout_marginBottom="20dp"
+        android:textSize="18dp"/>
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:isIndicator="false" />
+    <TextView
+        android:id="@+id/value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Value:"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#97c111"
+        android:textStyle="italic"/>
+    <Button
+        android:id="@+id/btnsend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#97c111"
+        android:text="Send"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="-35dp"
+        android:layout_marginLeft="250dp"/>
+    <!--<Button-->
+        <!--android:id="@+id/btnxem"-->
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#97c111"-->
+        <!--android:text="Xem đánh giá"-->
+        <!--android:textSize="20dp"-->
+        <!--android:textColor="#ffffff"-->
+        <!--android:layout_marginTop="20dp"/>-->
+    <!--<ListView-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:layout_marginTop="30dp"-->
+        <!--android:id="@+id/lv15"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"/>-->
+</LinearLayout>

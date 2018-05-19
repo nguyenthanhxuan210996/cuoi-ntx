@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nguyenthanhxuan.music.BinhLuanMusic">
+
+    <LinearLayout
+        android:id="@+id/ln14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tvOwner14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UserName:"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#97c111"
+            android:textSize="18dp"/>
+        <TextView
+            android:id="@+id/tvTopicName14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#97c111"
+            android:text="Bài Hát:"
+            android:layout_marginBottom="20dp"
+            android:textSize="18dp"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RelativeLayout>
+
+        <EditText
+            android:layout_marginLeft="22dp"
+            android:hint="Mời bạn nhập đánh giá"
+            android:id="@+id/edComment15"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColorHint="#97c111"/>
+        <Button
+            android:id="@+id/btnComment14"
+            android:textSize="18dp"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="Bình luận"
+            android:textColor="#ffffff"
+            android:background="#97c111"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"/>
+        <Button
+            android:layout_marginTop="-50dp"
+            android:id="@+id/btnReadComment"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="Xem Bình Luận"
+            android:layout_marginLeft="210dp"
+            android:textColor="#ffffff"
+            android:background="#97c111"
+            android:textSize="18dp"/>
+        <ListView
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_below="@id/ln14"
+            android:id="@+id/lv14"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </ListView>
+
+    </LinearLayout>
+
+</RelativeLayout>

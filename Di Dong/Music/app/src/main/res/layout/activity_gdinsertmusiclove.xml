@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.nguyenthanhxuan.music.InsertMusicLover">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <!--<EditText-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:id="@+id/edContent13"-->
+            <!--android:layout_width="300dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:hint="ID Bài hát"-->
+            <!--android:textAlignment="center"-->
+            <!--android:textColorHint="#ffffff"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:textSize="20dp"-->
+            <!--/>-->
+
+        <EditText
+            android:textColor="#ffffff"
+            android:id="@+id/edContent16"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Tên bài hát bạn yêu thích"
+            android:textAlignment="center"
+            android:textColorHint="#ffffff"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:textColor="#ffffff"
+            android:id="@+id/edContent14"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Tên Ca Sĩ"
+            android:textAlignment="center"
+            android:textColorHint="#ffffff"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            />
+
+        <Button
+            android:textColor="#ffffff"
+            android:background="#97c111"
+            android:id="@+id/btnInsert13"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Thêm"
+            android:layout_gravity="center"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\csc.exe
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\System.Collections.Immutable.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\System.Reflection.Metadata.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\vbc.exe
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\VBCSCompiler.exe
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\roslyn\VBCSCompiler.exe.config
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Cuoi Ki App Music.dll.config
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Cuoi Ki App Music.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Cuoi Ki App Music.pdb
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Newtonsoft.Json.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Net.Http.Formatting.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Web.Http.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Web.Http.WebHost.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\Newtonsoft.Json.xml
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Net.Http.Formatting.xml
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Web.Http.xml
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\bin\System.Web.Http.WebHost.xml
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\obj\Debug\Cuoi Ki App Music.csprojResolveAssemblyReference.cache
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\obj\Debug\Cuoi Ki App Music.dll
+D:\Học Viện Công NGhệ Bưu Chính Viễn Thông TP.HCM\NĂM 4 HỌC KÌ 2\LẬP TRÌNH ỨNG DỤNG TRÊN ĐẦU CUỐI DI ĐỘNG\Cuoi Ki App Music\Cuoi Ki App Music\obj\Debug\Cuoi Ki App Music.pdb

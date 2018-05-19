@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDanhGia"
+        android:text="Đánh giá"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:layout_marginTop="160dp"
+        android:textColor="#ffffff"
+        android:background="#97c111"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBinhLuan"
+        android:text="Bình luận"
+        android:layout_below="@+id/btnDanhGia"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"
+        android:background="#97c111"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnXoa"
+        android:text="Xóa"
+        android:layout_below="@+id/btnBinhLuan"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"
+        android:background="#97c111"/>
+</RelativeLayout>

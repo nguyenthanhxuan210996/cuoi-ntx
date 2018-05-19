@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/linearLayout2">
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="30dp"
+            android:id="@+id/edtname1"
+            android:background="#ffffff"
+            android:hint="Tên hoặc Email hoặc SĐT"
+            android:textColorHint="#97c111"
+            android:layout_weight="1"/>
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="30dp"
+            android:id="@+id/edtpass1"
+            android:background="#ffffff"
+            android:hint="Mật khẩu"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:inputType="numberPassword"
+            android:textColorHint="#97c111"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:id="@+id/tvJson"
+            android:textColor="#ff0000"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRes"
+        android:text="Đăng ký"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:background="#97c111"/>
+
+
+</RelativeLayout>

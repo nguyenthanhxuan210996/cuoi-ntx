@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_nen">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/linearLayout2">
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="30dp"
+            android:id="@+id/edEmail31"
+            android:background="#ffffff"
+            android:hint="Email hoặc Số điện thoại"
+            android:textColorHint="#97c111"
+            android:layout_weight="1"/>
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="30dp"
+            android:id="@+id/edMatKhau31"
+            android:background="#ffffff"
+            android:hint="Mật khẩu"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:inputType="numberPassword"
+            android:textColorHint="#97c111"/>
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="30dp"
+            android:id="@+id/edNhapLaiMatKhau31"
+            android:layout_weight="1"
+            android:hint="Nhập lại mật khẩu"
+            android:background="#ffffff"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:imeOptions="actionUnspecified"
+            android:inputType="numberPassword"
+            android:textColorHint="#97c111"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            android:id="@+id/tvThongBao"
+            android:textColor="#ff0000"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDangKy31"
+        android:text="Đăng ký"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:background="#97c111"/>
+
+</RelativeLayout>
